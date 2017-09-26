@@ -11,3 +11,5 @@ e) Polynomial regression to study Bias & Variance properties
 f) Spam classifier using support vector machine
 g) Compressing Images using K-means clustering & PCA
 h) Anamoly detection & recommender system
+
+ 
